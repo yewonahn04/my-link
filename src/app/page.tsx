@@ -12,12 +12,14 @@ export default function ProfilePage() {
 
         {/* 뱃지 / 역할 */}
         <span className="mt-2 inline-block rounded-full bg-zinc-100 px-3 py-1 text-xs font-medium text-zinc-600 dark:bg-zinc-800 dark:text-zinc-400">
-          Student · Vibe Coding
+          Software Developer
         </span>
 
         {/* 소개글 */}
         <p className="mt-4 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          문제를 해결하고 더 나은 사용자 경험을 만들어가는 개발자입니다.
+          <br />
+          새로운 도전을 즐기며 직관적이고 가치 있는 서비스를 구현합니다.
         </p>
 
         {/* 링크 / 소셜 버튼 영역 (심플 스타일) */}
